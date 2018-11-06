@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.gitignore_global" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.11.0/build/netcoreapp1.0/nunit.engine.netstandard.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.11.0/build/netcoreapp1.0/NUnit3.TestAdapter.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.11.0/build/netcoreapp1.0/NUnit3.TestAdapter.pdb" t="Include" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_pytocs.423159838.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="pytocs" t="IncludeRecursive">
+        <e p="Acceptance" t="Include">
+          <e p="ParserAcceptanceTests.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CodeModel" t="Include">
+          <e p="CodeApplicationExpression.cs" t="Include" />
+          <e p="CodeArrayCreateExpression.cs" t="Include" />
+          <e p="CodeArrayIndexerExpression.cs" t="Include" />
+          <e p="CodeAssignStatement.cs" t="Include" />
+          <e p="CodeAttributeArgument.cs" t="Include" />
+          <e p="CodeAttributeDeclaration.cs" t="Include" />
+          <e p="CodeAwaitExpression.cs" t="Include" />
+          <e p="CodeBinaryOperatorExpression.cs" t="Include" />
+          <e p="CodeBreakStatement.cs" t="Include" />
+          <e p="CodeCatchClause.cs" t="Include" />
+          <e p="CodeCommentStatement.cs" t="Include" />
+          <e p="CodeCompileUnit.cs" t="Include" />
+          <e p="CodeConditionExpression.cs" t="Include" />
+          <e p="CodeConditionStatement.cs" t="Include" />
+          <e p="CodeConstant.cs" t="Include" />
+          <e p="CodeConstructor.cs" t="Include" />
+          <e p="CodeContinueStatement.cs" t="Include" />
+          <e p="CodeExpression.cs" t="Include" />
+          <e p="CodeExpressionStatement.cs" t="Include" />
+          <e p="CodeFieldReferenceExpression.cs" t="Include" />
+          <e p="CodeForeachStatement.cs" t="Include" />
+          <e p="CodeFromClause.cs" t="Include" />
+          <e p="CodeGenerator.cs" t="Include" />
+          <e p="CodeGeneratorOptions.cs" t="Include" />
+          <e p="CodeIf.cs" t="Include" />
+          <e p="CodeInitializerExpression.cs" t="Include" />
+          <e p="CodeLambdaExpression.cs" t="Include" />
+          <e p="CodeLetClause.cs" t="Include" />
+          <e p="CodeMember.cs" t="Include" />
+          <e p="CodeMemberField.cs" t="Include" />
+          <e p="CodeMemberMethod.cs" t="Include" />
+          <e p="CodeMemberProperty.cs" t="Include" />
+          <e p="CodeMethodReferenceExpression.cs" t="Include" />
+          <e p="CodeMethodReturnStatement.cs" t="Include" />
+          <e p="CodeNamedArgument.cs" t="Include" />
+          <e p="CodeNamespace.cs" t="Include" />
+          <e p="CodeNamespaceImport.cs" t="Include" />
+          <e p="CodeObjectCreateExpression.cs" t="Include" />
+          <e p="CodeObjectInitializer.cs" t="Include" />
+          <e p="CodeOperatorType.cs" t="Include" />
+          <e p="CodeParameterDeclarationExpression.cs" t="Include" />
+          <e p="CodePostTestLoopStatement.cs" t="Include" />
+          <e p="CodePreTestLoopStatement.cs" t="Include" />
+          <e p="CodePrimitiveExpression.cs" t="Include" />
+          <e p="CodeQueryClause.cs" t="Include" />
+          <e p="CodeQueryExpression.cs" t="Include" />
+          <e p="CodeSelectClause.cs" t="Include" />
+          <e p="CodeStatement.cs" t="Include" />
+          <e p="CodeThisReferenceExpression.cs" t="Include" />
+          <e p="CodeThrowExceptionStatement.cs" t="Include" />
+          <e p="CodeTryCatchFinallyStatement.cs" t="Include" />
+          <e p="CodeTypeDeclaration.cs" t="Include" />
+          <e p="CodeTypeReference.cs" t="Include" />
+          <e p="CodeTypeReferenceExpression.cs" t="Include" />
+          <e p="CodeUnaryOperatorExpression.cs" t="Include" />
+          <e p="CodeUsingStatement.cs" t="Include" />
+          <e p="CodeVariableDeclarationStatement.cs" t="Include" />
+          <e p="CodeVariableReferenceExpression.cs" t="Include" />
+          <e p="CodeWhereClause.cs" t="Include" />
+          <e p="CodeWhile.cs" t="Include" />
+          <e p="CodeYieldStatement.cs" t="Include" />
+          <e p="CSharpCodeProvider.cs" t="Include" />
+          <e p="CSharpExpressionWriter.cs" t="Include" />
+          <e p="CSharpStatementWriter.cs" t="Include" />
+          <e p="CSharpTypeWriter.cs" t="Include" />
+          <e p="CSharpUnitWriter.cs" t="Include" />
+          <e p="ICodeElement.cs" t="Include" />
+          <e p="ICodeElementVisitor.cs" t="Include" />
+          <e p="ICodeExpressionVisitor.cs" t="Include" />
+          <e p="ICodeMemberVisitor.cs" t="Include" />
+          <e p="ICodeStatementVisitor.cs" t="Include" />
+          <e p="IndentingTextWriter.cs" t="Include" />
+          <e p="MemberAttributes.cs" t="Include" />
+          <e p="UnaryCodeExpression.cs" t="Include" />
+        </e>
+        <e p="DirectoryWalker.cs" t="Include" />
+        <e p="Modules.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="pytocs.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="pytocs.csproj" t="IncludeRecursive" />
+        <e p="Symbol.cs" t="Include" />
+        <e p="SymbolTable.cs" t="Include" />
+        <e p="Syntax" t="Include">
+          <e p="AliasedExp.cs" t="Include" />
+          <e p="AliasedName.cs" t="Include" />
+          <e p="Argument.cs" t="Include" />
+          <e p="ClassDef.cs" t="Include" />
+          <e p="CommentFilter.cs" t="Include" />
+          <e p="CommentFilter.Tests.cs" t="Include" />
+          <e p="Decorator.cs" t="Include" />
+          <e p="DottedName.cs" t="Include" />
+          <e p="ExceptHandler.cs" t="Include" />
+          <e p="Exp.cs" t="Include" />
+          <e p="FunctionDef.cs" t="Include" />
+          <e p="IExpVisitor.cs" t="Include" />
+          <e p="ILexer.cs" t="Include" />
+          <e p="IStatementVisitor.cs" t="Include" />
+          <e p="Lexer.cs" t="Include" />
+          <e p="Lexer.Tests.cs" t="Include" />
+          <e p="Module.cs" t="Include" />
+          <e p="Node.cs" t="Include" />
+          <e p="Op.cs" t="Include" />
+          <e p="Parameter.cs" t="Include" />
+          <e p="Parser.cs" t="Include" />
+          <e p="Parser.Tests.cs" t="Include" />
+          <e p="PyStatementWriter.cs" t="Include" />
+          <e p="Statement.cs" t="Include" />
+          <e p="Token.cs" t="Include" />
+          <e p="VarArg.cs" t="Include" />
+          <e p="WithItem.cs" t="Include" />
+        </e>
+        <e p="Translate" t="Include">
+          <e p="ClassNameDiscovery.cs" t="Include" />
+          <e p="ConstructorGenerator.cs" t="Include" />
+          <e p="CsAssignOp.cs" t="Include" />
+          <e p="ExpNameDiscovery.cs" t="Include" />
+          <e p="ExpNameDiscovery.Tests.cs" t="Include" />
+          <e p="ExpTranslator.cs" t="Include" />
+          <e p="ExpTranslator.Tests.cs" t="Include" />
+          <e p="IntrinsicTranslator.cs" t="Include" />
+          <e p="LambdaBodyGenerator.cs" t="Include" />
+          <e p="LocalSymbol.cs" t="Include" />
+          <e p="LocalVariableGenerator.cs" t="Include" />
+          <e p="LocalVariableGenerator.Tests.cs" t="Include" />
+          <e p="MethodGenerator.cs" t="Include" />
+          <e p="ModuleNameDiscovery.cs" t="Include" />
+          <e p="ModuleTranslator.cs" t="Include" />
+          <e p="ModuleTranslator.Tests.cs" t="Include" />
+          <e p="Special" t="Include">
+            <e p="StructTranslator.cs" t="Include" />
+          </e>
+          <e p="StatementNameDiscovery.cs" t="Include" />
+          <e p="StatementTranslator.cs" t="Include" />
+          <e p="StatementTranslator.Tests.cs" t="Include" />
+          <e p="SymbolGenerator.cs" t="Include" />
+          <e p="TypeReferenceTranslator.cs" t="Include" />
+        </e>
+        <e p="Translator.cs" t="Include" />
+        <e p="TypeInference" t="Include">
+          <e p="Analyzer.cs" t="Include" />
+          <e p="Analyzer.Tests.cs" t="Include" />
+          <e p="AstCache.cs" t="Include" />
+          <e p="Binding.cs" t="Include" />
+          <e p="Builtins.cs" t="Include" />
+          <e p="Diagnostic.cs" t="Include" />
+          <e p="FakeFileSystem.cs" t="Include" />
+          <e p="FakeLogger.cs" t="Include" />
+          <e p="IFileSystem.cs" t="Include" />
+          <e p="ILogger.cs" t="Include" />
+          <e p="Options.cs" t="Include" />
+          <e p="Parser.Ast.cs" t="Include" />
+          <e p="Parser.cs" t="Include" />
+          <e p="Progress.cs" t="Include" />
+          <e p="State.cs" t="Include" />
+          <e p="Statistics.cs" t="Include" />
+          <e p="TypeStack.cs" t="Include" />
+          <e p="TypeTransformer.cs" t="Include" />
+        </e>
+        <e p="Types" t="Include">
+          <e p="BoolType.cs" t="Include" />
+          <e p="ClassType.cs" t="Include" />
+          <e p="ComplexType.cs" t="Include" />
+          <e p="DataType.cs" t="Include" />
+          <e p="DataTypeFactory.cs" t="Include" />
+          <e p="DictType.cs" t="Include" />
+          <e p="FloatType.cs" t="Include" />
+          <e p="FunType.cs" t="Include" />
+          <e p="IDataTypeVisitor.cs" t="Include" />
+          <e p="InstanceType.cs" t="Include" />
+          <e p="IntType.cs" t="Include" />
+          <e p="ListType.cs" t="Include" />
+          <e p="ModuleType.cs" t="Include" />
+          <e p="SetType.cs" t="Include" />
+          <e p="StrType.cs" t="Include" />
+          <e p="SymbolType.cs" t="Include" />
+          <e p="TupleType.cs" t="Include" />
+          <e p="TypePrinter.cs" t="Include" />
+          <e p="UnionType.cs" t="Include" />
+        </e>
+      </e>
+      <e p="pytocs.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
